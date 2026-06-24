@@ -19,3 +19,4 @@
 ||hearthstone.com^
 ||heroesofthestorm.com^
 ||callofduty.com^
+||steampowered.com^
